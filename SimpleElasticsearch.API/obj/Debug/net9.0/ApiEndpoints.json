@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "SimpleElasticsearch.API.Controllers.ValuesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Values/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleElasticsearch.API.Controllers.ValuesController",
+    "Method": "GetAllWithElasticsearch",
+    "RelativePath": "api/Values/GetAllWithElasticsearch/{value}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleElasticsearch.API.Controllers.ValuesController",
+    "Method": "InsertData",
+    "RelativePath": "api/Values/InsertData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleElasticsearch.API.Controllers.ValuesController",
+    "Method": "SyncToElastic",
+    "RelativePath": "api/Values/SyncToElastic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zMk+yLSoQVln+9Odxz7gkkF363BiipKHLNlWKvXXBKE=",
+  "Source": "SimpleElasticsearch.API",
+  "BasePath": "_content/SimpleElasticsearch.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
